@@ -12,6 +12,12 @@
       "texture": "Shadow.png",
       "type": "free"
     },
+    {
+      "localization_name": "See-Through",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "See-Through.png",
+      "type": "free"
+    },
   ],
   "serialize_name": "Example",
   "localization_name": "Example"
