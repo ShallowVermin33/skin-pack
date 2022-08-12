@@ -1,11 +1,11 @@
 {
   "skins": [
     {
-      "localization_name": "Iskall85",
+      "localization_name": "ShallowMC Developer",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Iskall85.png",
+      "texture": "DevTroll.png",
       "type": "free"
-    }
+    },
   ],
   "serialize_name": "Example",
   "localization_name": "Example"
