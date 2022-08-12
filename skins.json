@@ -6,6 +6,12 @@
       "texture": "DevTroll.png",
       "type": "free"
     },
+    {
+      "localization_name": "Shadow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Shadow.png",
+      "type": "free"
+    },
   ],
   "serialize_name": "Example",
   "localization_name": "Example"
