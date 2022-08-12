@@ -29,7 +29,7 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "Shallow.png",
       "type": "free"
-    },
+    }
   ],
   "serialize_name": "Example",
   "localization_name": "Example"
