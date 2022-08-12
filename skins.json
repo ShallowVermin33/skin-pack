@@ -1,13 +1,13 @@
 {
   "skins": [
     {
-      "localization_name": "ShallowMC Developer",
+      "localization_name": "Troll Developer",
       "geometry": "geometry.humanoid.custom",
       "texture": "DevTroll.png",
       "type": "free"
     },
     {
-      "localization_name": "Shadow",
+      "localization_name": "Back Shadow",
       "geometry": "geometry.humanoid.custom",
       "texture": "Shadow.png",
       "type": "free"
@@ -16,6 +16,18 @@
       "localization_name": "See-Through",
       "geometry": "geometry.humanoid.custom",
       "texture": "See-Through.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Creeper Developer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CreeperDev.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shallow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Shallow.png",
       "type": "free"
     },
   ],
